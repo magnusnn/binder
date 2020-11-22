@@ -1,2 +1,2 @@
 # binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/magnusnn/binder/master?urlpath=chapters)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/magnusnn/binder/master?urlpath=tree/chapters)
