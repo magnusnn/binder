@@ -1,4 +1,5 @@
 jupyterlab
+ipyparallel
 #xlrd
 #openpyxl
 #pandas
