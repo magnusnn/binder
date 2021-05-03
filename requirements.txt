@@ -1,4 +1,4 @@
 jupyterlab
-xlrd
-openpyxl
-pandas
+#xlrd
+#openpyxl
+#pandas
